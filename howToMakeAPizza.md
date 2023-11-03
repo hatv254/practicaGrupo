@@ -6,3 +6,4 @@ queso
 oregano
 pollo
 champiñom
+sal
